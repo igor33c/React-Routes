@@ -1,3 +1,6 @@
+# A simple React app with routes, also using exact and not found
+#Uses React-Router-Dom 5.2
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
